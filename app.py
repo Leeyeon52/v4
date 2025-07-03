@@ -1,4 +1,4 @@
-# C:\Users\sptzk\Desktop\backend\app.py
+    # C:\Users\sptzk\Desktop\backend\app.py
 from flask import Flask
 from flask_cors import CORS
 from models import db # models.py에서 db 객체 임포트
